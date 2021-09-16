@@ -1,3 +1,5 @@
+# Paradicsomleves, választható sajttal és körettel:
+
 def paradicsomleves(cheese_type, side_dish):
     print('Pirítsd meg olívaolajon a hagymát és fokhagymát.')
     print('Tedd hozzá a felkockázott paradicsomot, sózd és borsozd meg, majd öntsd fel 2 dl vízzel.')
