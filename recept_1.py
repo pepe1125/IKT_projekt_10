@@ -5,4 +5,5 @@
 
 # IDE ÍRD A KÓDOT:
 
+print('KAJA RECEPT:')
 
