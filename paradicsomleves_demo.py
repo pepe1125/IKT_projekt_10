@@ -10,3 +10,4 @@ def paradicsomleves(cheese_type, side_dish):
     print('Szolgáld fel ' + side_dish + '-val/vel.')
     
 paradicsomleves('edami', 'pogácsa')
+
