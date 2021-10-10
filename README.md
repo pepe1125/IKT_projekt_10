@@ -1,0 +1,3 @@
+# IKT_projekt_10
+
+A tárgyon belül megírt PYTHON kódjaim megoldásai...
