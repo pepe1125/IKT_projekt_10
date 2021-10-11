@@ -4,6 +4,6 @@ if 7 < x < 14:
 else:
     print('zárva')
     if x>14:
-        print(24 - x + 7 , 'óra múlva lesz nyitva!')
+        print(31 - x , 'óra múlva lesz nyitva!')
     else:
         print( 7 - x , 'óra múlva lesz nyitva!')
