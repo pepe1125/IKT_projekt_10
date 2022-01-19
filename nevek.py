@@ -1,6 +1,3 @@
-from turtle import end_fill
-
-
 user = ["Alex", "Martin", "Sanyi", "Réka"]
 list_size = len(user)
 chk =  [False] * list_size
