@@ -1,4 +1,4 @@
-user = ["Alex", "Martin", "Sanyi", "Réka"]
+user = ("Alex", "Martin", "Sanyi", "Réka")
 list_size = len(user)
 chk =  [None] * list_size
 
